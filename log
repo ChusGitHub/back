@@ -1,0 +1,45 @@
+[2017-11-11 20:47:56 +0000] [32606] [INFO] Starting gunicorn 19.3.0
+[2017-11-11 20:47:56 +0000] [32606] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:47:56 +0000] [32606] [ERROR] Retrying in 1 second.
+[2017-11-11 20:47:57 +0000] [32606] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:47:57 +0000] [32606] [ERROR] Retrying in 1 second.
+[2017-11-11 20:47:58 +0000] [32606] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:47:58 +0000] [32606] [ERROR] Retrying in 1 second.
+[2017-11-11 20:47:59 +0000] [32606] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:47:59 +0000] [32606] [ERROR] Retrying in 1 second.
+[2017-11-11 20:48:00 +0000] [32606] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:48:00 +0000] [32606] [ERROR] Retrying in 1 second.
+[2017-11-11 20:48:01 +0000] [32606] [ERROR] Can't connect to ('127.0.0.1', 8000)
+[2017-11-11 20:50:29 +0000] [810] [INFO] Starting gunicorn 19.3.0
+[2017-11-11 20:50:29 +0000] [810] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:50:29 +0000] [810] [ERROR] Retrying in 1 second.
+[2017-11-11 20:50:30 +0000] [810] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:50:30 +0000] [810] [ERROR] Retrying in 1 second.
+[2017-11-11 20:50:31 +0000] [810] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:50:31 +0000] [810] [ERROR] Retrying in 1 second.
+[2017-11-11 20:50:32 +0000] [810] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:50:32 +0000] [810] [ERROR] Retrying in 1 second.
+[2017-11-11 20:50:33 +0000] [810] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:50:33 +0000] [810] [ERROR] Retrying in 1 second.
+[2017-11-11 20:50:34 +0000] [810] [ERROR] Can't connect to ('127.0.0.1', 8000)
+[2017-11-11 20:56:52 +0000] [1941] [INFO] Starting gunicorn 19.7.1
+[2017-11-11 20:56:52 +0000] [1941] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:56:52 +0000] [1941] [ERROR] Retrying in 1 second.
+[2017-11-11 20:56:53 +0000] [1941] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:56:53 +0000] [1941] [ERROR] Retrying in 1 second.
+[2017-11-11 20:56:54 +0000] [1941] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:56:54 +0000] [1941] [ERROR] Retrying in 1 second.
+[2017-11-11 20:56:55 +0000] [1941] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:56:55 +0000] [1941] [ERROR] Retrying in 1 second.
+[2017-11-11 20:56:56 +0000] [1941] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2017-11-11 20:56:56 +0000] [1941] [ERROR] Retrying in 1 second.
+[2017-11-11 20:56:57 +0000] [1941] [ERROR] Can't connect to ('127.0.0.1', 8000)
+[2017-11-11 20:59:27 +0000] [2403] [INFO] Starting gunicorn 19.7.1
+[2017-11-11 20:59:27 +0000] [2403] [INFO] Listening at: http://127.0.0.1:8000 (2403)
+[2017-11-11 20:59:27 +0000] [2403] [INFO] Using worker: sync
+[2017-11-11 20:59:27 +0000] [2409] [INFO] Booting worker with pid: 2409
+[2017-11-11 20:59:27 +0000] [2410] [INFO] Booting worker with pid: 2410
+[2017-11-11 20:59:45 +0000] [2403] [INFO] Handling signal: int
+[2017-11-11 20:59:45 +0000] [2410] [INFO] Worker exiting (pid: 2410)
+[2017-11-11 20:59:45 +0000] [2409] [INFO] Worker exiting (pid: 2409)
+[2017-11-11 20:59:45 +0000] [2403] [INFO] Shutting down: Master
